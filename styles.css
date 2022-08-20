@@ -66,3 +66,30 @@ body{
   text-align: center;
   color:white;
 }
+
+div.first{
+  padding-left: 40px;
+
+}
+
+.ev1{
+  display: inline-block;
+  flex:33%;
+  padding-left: 30px;
+}
+.Openstack{
+ 
+  border-radius: 4px;       
+  width:700px;
+  height:500px;
+  border-width: 5px;
+  border-color: rgb(73, 130, 187);
+}
+.Openstack2{
+ 
+ border-radius: 4px;       
+ width:900px;
+ height:700px;
+ border-width: 5px;
+ border-color: rgb(73, 130, 187);
+}
